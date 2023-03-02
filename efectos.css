@@ -1,0 +1,56 @@
+p
+{
+	color:blue;
+	font-size:14pt;
+	font-weight:bold;
+	font-family:Courier;
+}
+
+.encabezado{
+	background:blue;
+	color:white;
+	width:90%;
+	border-radius:15px;
+}
+
+.botón_azul{
+	background:blue;
+	color:white;
+	font-size:16pt;
+	width:150px;
+	border-radius:10px;
+}
+.botón_amarillo{
+	background:yellow;
+	color:white;
+	font-size:16pt;
+	width:150px;
+	border-radius:10px;
+}
+.botón_rojo{
+	background:red;
+	color:white;
+	font-size:16pt;
+	width:150px;
+	border-radius:10px;
+}
+.botón_azul:hover{
+	background:white;
+	color:blue;
+}
+.botón_amarillo:hover{
+	background:white;
+	color:black;
+}
+.botón_rojo:hover{
+	background:white;
+	color:black;
+}
+.campo{
+	background:blue;
+	color:white;
+	font-size:16pt;
+	font-weight:bold;
+	border-radius:10px;
+	text-align:center;
+}
